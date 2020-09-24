@@ -14,10 +14,6 @@
 
 灰村清孝
 
-译者
-
-李彦桦
-
 
 
 
@@ -38,6 +34,10 @@ EPUB重置：知一一
 * * *
 
 
+
+台版
+
+翻译：郑淑慧
 
 轻之国度EPUB制作组
 
@@ -136,7 +136,7 @@ EPUB：江火如画
 
 
 
-序章
+序　章
 
 北意大利的旅行
 
@@ -467,7 +467,7 @@ Un_Viaggio_in_Italia.
 
 第一章
 
-基奥贾的街头
+位于基奥贾的街道
 
 Il_Vento_di_Chioggia.
 
@@ -1086,7 +1086,7 @@ Il_Vento_di_Chioggia.
 
 第二章
 
-前往伦敦的准备
+动身去伦敦的准备
 
 Un_Frammento_di_un_Piano.
 
@@ -2057,7 +2057,7 @@ Un_Frammento_di_un_Piano.
 
 第三章
 
-在水都的船上
+发生在水都的船上
 
 Il_Mare_e_la_Sconfitta.
 
@@ -3357,7 +3357,7 @@ Il_Mare_e_la_Sconfitta.
 
 第四章
 
-火船与炮火之战
+火船与炮火的战争
 
 Lotte_di_Liberazione.
 
@@ -4418,7 +4418,7 @@ Lotte_di_Liberazione.
 
 建宫咧嘴笑道：
 
-“你知道当初英国海军，是怎么击沉号称无敌舰队的西班牙海军？”
+“你知道当初英国海军，是怎么击沉号称无敌舰队的西班牙海军的？”
 
 
 
@@ -4924,7 +4924,7 @@ Lotte_di_Liberazione.
 
 第五章
 
-亚德里亚海女王
+亚德里亚海的女王
 
 La_Regina_del_Mar_Adriatico.
 
@@ -7037,9 +7037,9 @@ La_Regina_del_Mar_Adriatico.
 
 
 
-终章
+终　章
 
-回到学园都市
+到学园都市的返程
 
 L'inizio_Nuovo……
 
@@ -7488,10 +7488,6 @@ Potrebbe investigare urgentemente？ Quando lui è pericolso， lo uccida di sic
 
 
 下次一定会有换季跟惩罚游戏！
-
-
-
-
 
 镰池和马
 

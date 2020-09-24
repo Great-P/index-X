@@ -14,10 +14,6 @@
 
 灰村清孝
 
-译者
-
-李彦桦
-
 
 
 
@@ -38,6 +34,10 @@ EPUB重置：知一一
 * * *
 
 
+
+台版
+
+翻译：李彦桦
 
 轻之国度EPUB制作组
 
@@ -154,9 +154,9 @@ EPUB：江火如画
 
 
 
-序章
+序　章
 
-屈指可数
+屈指可数的少女
 
 A_TOKIWA-DAI's_World.
 
@@ -319,7 +319,7 @@ A_TOKIWA-DAI's_World.
 
 第一章
 
-少女们的放学时光
+放学之后的少女
 
 After_School_of_Angels.
 
@@ -855,7 +855,7 @@ After_School_of_Angels.
 
 第二章
 
-少女的对决
+对决之中的少女
 
 Space_and_Point.
 
@@ -1798,7 +1798,7 @@ Space_and_Point.
 
 第三章
 
-残骸秘藏之光
+残骸隐藏的光芒
 
 “Remnant”
 
@@ -2818,7 +2818,7 @@ Space_and_Point.
 
 第四章
 
-终结者
+将一切终结的人
 
 Break_or_Crash?
 
@@ -4454,7 +4454,7 @@ Break_or_Crash?
 
 
 
-终章
+终　章
 
 各自的日常生活
 
@@ -4663,10 +4663,6 @@ One_Place， One_Scene.
 
 
 ……御坂美琴。本来以为这一集她会有更多出场机会的。
-
-
-
-
 
 镰池和马
 

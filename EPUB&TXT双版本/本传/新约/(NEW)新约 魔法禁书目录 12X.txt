@@ -232,7 +232,7 @@ EPUB制作：粉色樱花架
 
 
 
-序章
+序　章
 
 世界容许的极限
 
@@ -401,7 +401,7 @@ Foreign_GODs,or_Evil_KINGs.
 
 第一章
 
-馒头与钻石
+馒头与钻石高塔
 
 to_the_DIANOID.
 
@@ -2191,7 +2191,7 @@ to_the_DIANOID.
 
 第二章
 
-魔神与骗子的邂逅
+魔神邂逅了骗子
 
 St.Germain,and_LIAR.
 
@@ -9407,7 +9407,7 @@ Hand_Made_ROUTE.
 
 
 
-终章
+终　章
 
 狂热胎动的终结
 

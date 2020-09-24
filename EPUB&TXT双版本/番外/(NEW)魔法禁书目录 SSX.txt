@@ -14,10 +14,6 @@ SS
 
 灰村清孝
 
-译者
-
-郑淑慧
-
 
 
 
@@ -56,6 +52,8 @@ EPUB：祈者之路
 
 
 台版
+
+翻译：郑淑慧
 
 SOSG小说组
 
@@ -184,7 +182,7 @@ EPUB：gameking
 
 序　章
 
-开战前平稳的一天
+开战前安稳祥和的一日
 
 Breakfast.
 
@@ -259,7 +257,7 @@ Breakfast.
 
 第一章
 
-火锅与肉与食欲的大战争
+锅与肉与食欲的大战争
 
 A_Required_Thing.
 
@@ -967,7 +965,7 @@ A_Required_Thing.
 
 第二章
 
-枯燥无味的灰色暗巷
+枯燥又无味的灰色暗巷
 
 Skill_Out.
 
@@ -2551,7 +2549,7 @@ Skill Out的重新编成。
 
 第三章
 
-英国清教的女子宿舍
+在英国清教的女子宿舍
 
 Russian_Roulette.
 
@@ -3396,7 +3394,7 @@ Russian_Roulette.
 
 第四章
 
-烂醉如泥的母亲
+烂醉如泥的母亲的现状
 
 The_Two_Leading_Roles.
 
