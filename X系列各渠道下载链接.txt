@@ -1,5 +1,9 @@
+带*的第一时间更新
 *天翼云盘 （需要登录）https://cloud.189.cn/t/JFbMvij6RFbe
 *github（需要一定能力）https://github.com/1204244136/index-X
-码云 https://gitee.com/con_sul/index-X
+码云（国内更快） https://gitee.com/con_sul/index-X
 腾讯微云（速度慢）https://share.weiyun.com/FgVmz2nc
-带*：第一时间更新
+
+关于文件
+.gitignore 是基于git的屏蔽文件，无视即可
+README.md 是github的预览文件，记载了更新记录等内容，可以到github直接预览观看
