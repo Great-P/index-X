@@ -1,8 +1,8 @@
-带*的第一时间更新
-*天翼云盘 （需要登录）https://cloud.189.cn/t/JFbMvij6RFbe
-*github（需要一定能力）https://github.com/1204244136/index-X
-码云（国内更快） https://gitee.com/con_sul/index-X
-腾讯微云（速度慢）https://share.weiyun.com/FgVmz2nc
+带*的第一时间更新*
+*天翼云盘（需要登录，速度最快）(https://cloud.189.cn/t/JFbMvij6RFbe)
+*github（需要较好的网络质量）(https://github.com/1204244136/index-X)
+码云(相对github于国内更快)(https://gitee.com/con_sul/index-X)
+腾讯微云（速度慢，不再更新)(https://share.weiyun.com/FgVmz2nc)
 
 关于文件
 .gitignore 是基于git的屏蔽文件，无视即可

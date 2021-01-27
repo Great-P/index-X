@@ -66,7 +66,7 @@ A：点击图片下方的对话，可以跳转到原文相应位置，反之亦�
 ```
 ```
 Q：“如何下载”里的我看不懂，有没有方便一点的下载方法？
-A：在本网站的底部，有天翼网盘的连接
+A：在本网站的底部，有天翼网盘的连接。
 ```
 ```
 Q：为什么这么久了都没更新？
@@ -300,7 +300,7 @@ ps：后面就开始需要校对着看了，所以更新速度会下降，~~大�
 
 ## 各渠道下载链接
 **带*的第一时间更新**
-- [*天翼云盘（需要登录）](https://cloud.189.cn/t/JFbMvij6RFbe)
-- [*github（需要一定能力）](https://github.com/1204244136/index-X)
-- [码云(国内更快)](https://gitee.com/con_sul/index-X)
-- [腾讯微云（速度慢)](https://share.weiyun.com/FgVmz2nc)
+- [*天翼云盘（需要登录，速度最快）](https://cloud.189.cn/t/JFbMvij6RFbe)
+- [*github（需要较好的网络质量）](https://github.com/1204244136/index-X)
+- [码云(相对github于国内更快)](https://gitee.com/con_sul/index-X)
+- [腾讯微云（速度慢，不再更新)](https://share.weiyun.com/FgVmz2nc)
